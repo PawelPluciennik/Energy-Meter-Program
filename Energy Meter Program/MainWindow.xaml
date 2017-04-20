@@ -1,0 +1,58 @@
+﻿<Window x:Class="Energy_Meter_Program.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+
+
+    <StackPanel Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}">
+
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Stan poczatkowy: "></Label>
+                    <TextBox Name="tBoxInitialState" Width="60" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Stan koncowy: "></Label>
+                    <TextBox Name="tBoxFinalState" Width="60" />
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Cena za kWh"></Label>
+                    <TextBox Name="tBoxPricekWh" Width="60" />
+                </StackPanel>
+            </StackPanel>
+
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Zuzycie: "></Label>
+                        <TextBox Name="tBoxProbabilityScorBleee" Width="60" />
+                        <Label Content="kWh"></Label>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Koszty zuzycia :"></Label>
+                        <TextBox Name="tBoxProbabilityScorCe" Width="60" />
+                        <Label Content="zl"></Label>
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Orientation="Horizontal">
+                        <Button Name="btnCalculateEverything" Content="Oblicz" Width="180" Height="30" Background="#FF34E0E0" Click="btnCalculateEverything_Click" />
+                    </StackPanel>
+                </StackPanel>
+
+            </StackPanel>
+        </StackPanel>
+
+    </StackPanel>
+</Window>

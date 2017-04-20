@@ -1,0 +1,13 @@
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\bin\Debug\Energy Meter Program.exe.config
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\bin\Debug\Energy Meter Program.exe
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\bin\Debug\Energy Meter Program.pdb
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\Energy Meter Program.csprojResolveAssemblyReference.cache
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\MainWindow.baml
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\MainWindow.g.cs
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\App.g.cs
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\Energy Meter Program_MarkupCompile.cache
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\Energy Meter Program.g.resources
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\Energy_Meter_Program.Properties.Resources.resources
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\Energy Meter Program.csproj.GenerateResource.Cache
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\Energy Meter Program.exe
+D:\Pobrane z netu\programowanie\Podstawy\Energy Meter Program\Energy Meter Program\obj\Debug\Energy Meter Program.pdb
